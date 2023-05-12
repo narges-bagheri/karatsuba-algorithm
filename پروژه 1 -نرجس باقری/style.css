@@ -1,0 +1,21 @@
+#d1{
+    background-color: rgb(151, 97, 143);
+    width: 200px;
+    height: 120px;
+    /* text-align:center; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    border:5px solid black;
+    padding:45px;
+    font-size:30px;
+    overflow-x:scroll;
+}
+*{
+    background-color: rgb(88, 88, 129);
+}
+#p1{
+    margin-left: 400px;
+    margin-top: 30px;
+    font-size: 30px;
+}
